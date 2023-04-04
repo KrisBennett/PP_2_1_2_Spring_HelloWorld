@@ -4,7 +4,8 @@ import java.util.Objects;
  * POJO class.
  */
 public class Cat {
- private String message;
+
+    private String message;
 
     public Cat() {
     }
